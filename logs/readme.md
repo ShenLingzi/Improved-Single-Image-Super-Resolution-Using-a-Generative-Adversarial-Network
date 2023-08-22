@@ -1,1 +1,1 @@
-output path for logs (tensorboard)
+outputpath for logs (tensorboard)
